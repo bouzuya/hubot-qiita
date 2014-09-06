@@ -2,6 +2,8 @@
 
 A Hubot script that search from Qiita.
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140906/20140906172741.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-qiita.git
